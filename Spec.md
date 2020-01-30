@@ -1,8 +1,5 @@
 # Todo
 
-Setup devise
-https://devhints.io/devise
-
 setup single user and admin
 https://github.com/heartcombo/devise/wiki/How-To:-Set-up-devise-as-a-single-user-system
 
