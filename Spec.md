@@ -1,13 +1,18 @@
 # Todo
 
-setup single user and admin
-https://github.com/heartcombo/devise/wiki/How-To:-Set-up-devise-as-a-single-user-system
-
 Setup AWS
 
 Create table for projects (with images)
+  title
+  description
+  link
 
 Create table for blog (with images)
+  title
+  sub_title
+  body
+
+Allow for comments section?
 
 Add better errors gem
 https://github.com/BetterErrors/better_errors
@@ -29,3 +34,5 @@ create site
 deploy to either heroku or https://app.netlify.com/teams/bryantit/sites
 
 Embed my youtube video walkthroughs?
+
+Hire me?
